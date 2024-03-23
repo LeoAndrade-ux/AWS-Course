@@ -1,0 +1,18 @@
+{
+    "instructor": "John",
+    "numbre_of_students": 50,
+    "students": [
+        {
+            "name": "Jane",
+            "grade": 90
+        },
+        {
+            "name": "Joe",
+            "grade": 80
+        },
+        {
+            "name": "Jack",
+            "grade": 85
+        }
+    ]
+}
